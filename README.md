@@ -48,4 +48,6 @@ This is the autoexec.cfg
 There is the source of the [autoexec.cfg](https://github.com/Khantanjil/CsgoConfig/blob/master/autoexec.cfg)
 
 ## Options inside of the game
-Editing...
+For the most fps gain, you can change the minimun resolution and disable all options like on the following screenshot
+![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706866151551926322/Screenshot_from_2020-05-04_14-50-16.png)
+![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706866132895662100/Screenshot_from_2020-05-04_14-50-30.png)
