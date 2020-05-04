@@ -31,3 +31,5 @@ And press the button Enter to continue
 
 You can run the command `sudo apt-get update` and install the gamemode
 ![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706854227120488509/Screenshot_from_2020-05-04_14-05-50.png)
+
+
