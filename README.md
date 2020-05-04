@@ -7,12 +7,9 @@ The counter strike global offensive for the guys who have a pc like an microwave
 You can set the launch options on the steam. 
 
  1. Open the steam
- 
  2. With right click on the game, go to the properties
 
-
-3. Go to the general tab and click on the set launch options button and copy paste the code and click the ok button
-![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706857034779328572/Screenshot_from_2020-05-04_14-17-14.png)
+3. Go to the general tab and click on the set launch options button and copy paste the code and click the ok button![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706857034779328572/Screenshot_from_2020-05-04_14-17-14.png)
 
 This is the following launch options
 
@@ -34,4 +31,3 @@ And press the button Enter to continue
 
 You can run the command `sudo apt-get update` and install the gamemode
 ![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706854227120488509/Screenshot_from_2020-05-04_14-05-50.png)
-
