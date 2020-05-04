@@ -46,3 +46,6 @@ You can go to the cfg filepath from the Files![enter image description here](htt
 This is the autoexec.cfg
 ![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706861446067257393/Screenshot_from_2020-05-04_14-34-24.png)
 There is the source of the [autoexec.cfg](https://github.com/Khantanjil/CsgoConfig/blob/master/autoexec.cfg)
+
+## Options inside of the game
+Editing...
