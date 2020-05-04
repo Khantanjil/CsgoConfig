@@ -2,6 +2,7 @@
 
 # The config for the microwaves computers (LINUX).
 The counter strike global offensive for the guys who have a pc like an microwave like me.
+The following guide increased for me the fps, before i played with 30 fps and now im playing like 80 fps.
 
 ## The launch options
 You can set the launch options on the steam. 
@@ -32,4 +33,16 @@ And press the button Enter to continue
 You can run the command `sudo apt-get update` and install the gamemode
 ![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706854227120488509/Screenshot_from_2020-05-04_14-05-50.png)
 
+## Autoexec
+You can create an autoexec. You need to put your autoexec.cfg on this filepath:
 
+   
+> `~/.steam/steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg`
+
+![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706860214787375144/Screenshot_from_2020-05-04_14-29-35.png)
+
+You can go to the cfg filepath from the Files![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706860784554213406/Screenshot_from_2020-05-04_14-31-58.png)
+
+This is the autoexec.cfg
+![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706861446067257393/Screenshot_from_2020-05-04_14-34-24.png)
+There is the source of the [autoexec.cfg](https://github.com/Khantanjil/CsgoConfig/blob/master/autoexec.cfg)
