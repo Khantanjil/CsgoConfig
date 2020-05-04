@@ -9,7 +9,7 @@ You can set the launch options on the steam.
  1. Open the steam
  
  2. With right click on the game, go to the properties
-![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706855278577975367/Screenshot_from_2020-05-04_14-08-55.png)
+
 
 3. Go to the general tab and click on the set launch options button and copy paste the code and click the ok button
 ![enter image description here](https://cdn.discordapp.com/attachments/697056555421532239/706857034779328572/Screenshot_from_2020-05-04_14-17-14.png)
