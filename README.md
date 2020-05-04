@@ -1,6 +1,7 @@
 
-# The config for the microwaves computers.
-The counter strike global offensive for the guys who have a pc like an microwave like me. Autoexec.cfg for super low pc.
+
+# The config for the microwaves computers (LINUX).
+The counter strike global offensive for the guys who have a pc like an microwave like me.
 
 ## The launch options
 
